@@ -1,12 +1,14 @@
 /* CSS Document test */
 
 * {
+	font-size: 122%;
 }
 
 body {
 	margin: 10%;	
 }
 
-h1 {	
+h1 {
+	font-size: 160%;	
 }
 
